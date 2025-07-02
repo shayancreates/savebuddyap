@@ -14,7 +14,6 @@ Graphical Dashboard to show expenses
 Set monthy budgets
 Set income streams
 
-Created by Team Socrates for Code For Change hackathon
 
 Future prospects
 
